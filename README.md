@@ -7,7 +7,7 @@ use submodule to manage
 - [ ] obsidian
 - [ ] vimium C
 - [ ] cmder & clink
-- [ ] zshrc and zsh install script
+- [ ] zshrc and zsh plugins install script
 - [ ] neovim & install script(include fd fzf)
 - [ ] autohotkey
 - [ ] wsl config and install script

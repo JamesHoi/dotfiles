@@ -4,6 +4,7 @@
 use submodule to manage
 - [ ] glazewm
 - [ ] alacritty
+- [ ] obsidian
 - [ ] cmder & clink
 - [ ] zshrc and zsh install script
 - [ ] neovim & install script(include fd fzf)
